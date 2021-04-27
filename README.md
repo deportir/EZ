@@ -2,7 +2,7 @@
 <br>
 Require : python3
 <br>
-Coded by : Im.Payz
+Coded by : Unknown
 <br>
 <br>
 <h3>Settings ?</h3>

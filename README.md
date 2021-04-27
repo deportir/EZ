@@ -54,16 +54,6 @@ Set Letter: EZConfig/Letter
   <br>
   
 <br>
-<h3>Any Quest ?</h3>
-<br>
-<b>Contact Me:</b>
-<br>
-  •WhatsApp: <a href="https://api.whatsapp.com/send?phone=+6282246831089">Payz</a>
-  <br>
-  •Facebook: <a href="https://facebook.com/naufal.frs.5">Naufal</a>
-  <br>
-  •github: <a href="https://github.com/payz404">Payz404</a>
-<br>
 <br>  
 Thanks For Support EZCoder
 
